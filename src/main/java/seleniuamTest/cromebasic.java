@@ -25,6 +25,8 @@ public class cromebasic {
 			System.out.println("page Title is incurrect");
 		}
 		driver.close();
+	System.out.println("browser will close");
 	}
+	
 
 }
